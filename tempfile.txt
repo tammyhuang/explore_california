@@ -1,0 +1,3 @@
+tempfile that will keep a log, and will be ignored by git.
+
+this is a new temp file.
