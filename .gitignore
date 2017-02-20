@@ -1,4 +1,12 @@
-# Comment 
+# Comment, things you generally want to ignore:
+# 1. compiled source code, repo the uncompiled source code
+# 2. packages and compressed files
+# 3. logs and databases
+# 4. operating system generated files
+# 5. user-uploaded assets (images, PDFs, videos)
+# resources on gitignore
+# https://help.github.com/articles/ignoring-files
+# https://github.com/github/gitignore this will be more specific  
 
 templog.txt
 .DS_Store
